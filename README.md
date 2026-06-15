@@ -2,14 +2,14 @@
 <p align="center"><em>Curated collection of no-auth public APIs</p>
 
 <p align="center">
-  <a href="https://github.com/vinceswu/publicapis/stargazers">
-    <img src="https://img.shields.io/github/stars/vinceswu/publicapis?style=flat-square">
+  <a href="https://github.com/vinceswu/no-auth-apis/stargazers">
+    <img src="https://img.shields.io/github/stars/vinceswu/no-auth-apis?style=flat-square">
   </a>
-  <a href="https://github.com/vinceswu/publicapis/issues">
-    <img src="https://img.shields.io/github/issues/vinceswu/publicapis?style=flat-square">
+  <a href="https://github.com/vinceswu/no-auth-apis/issues">
+    <img src="https://img.shields.io/github/issues/vinceswu/no-auth-apis?style=flat-square">
   </a>
-  <a href="https://github.com/vinceswu/publicapis/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/vinceswu/publicapis?style=flat-square">
+  <a href="https://github.com/vinceswu/no-auth-apis/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/vinceswu/no-auth-apis?style=flat-square">
   </a>
 </p>
 
