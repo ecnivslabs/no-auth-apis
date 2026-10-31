@@ -367,6 +367,7 @@
 |:---|:---|
 | [FOAAS (Fuck Off As A Service)](https://www.foaas.com/) | Creative insult message generator |
 | [Advice Slip](https://api.adviceslip.com/) | Random advice |
+| [Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Daily activity and personal-goal inspiration with images and source links |
 | [Forismatic](http://forismatic.com/en/api/) | Random inspirational quotes |
 | [Dad Jokes](https://icanhazdadjoke.com/api) | Dad jokes |
 | [Programming Quotes](https://github.com/mudroljub/programming-quotes-api) | Programming quotes |
